@@ -1,0 +1,15 @@
+{
+  "name": "tg-channel-forwarder",
+  "version": "1.0.0",
+  "description": "Userbot that forwards messages from a Telegram channel you're a member of to a channel you admin",
+  "main": "forwarder.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node forwarder.js",
+    "login": "node generate-session.js"
+  },
+  "dependencies": {
+    "telegram": "^2.26.22",
+    "dotenv": "^16.4.5"
+  }
+}
