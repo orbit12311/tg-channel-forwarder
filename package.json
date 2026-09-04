@@ -9,7 +9,8 @@
     "login": "node generate-session.js"
   },
   "dependencies": {
-    "telegram": "^2.26.22",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "input": "^1.0.1",
+    "telegram": "^2.26.22"
   }
 }

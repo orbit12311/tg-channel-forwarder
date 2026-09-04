@@ -1,0 +1,93 @@
+[33m[2026-09-04T12:00:52.459] [INFO] - [Running gramJS version 2.26.21][0m
+[33m[2026-09-04T12:00:52.463] [INFO] - [Connecting to 149.154.160��1:80/TCPFull...][0m
+[31m[2026-09-04T12:00:52.474] [ERROR] - [WebSocket connection failed attempt: 1][0m
+Error: getaddrinfo EINVAL 149.154.160��1
+    at lookup (node:dns:240:32)
+    at emitLookup (node:net:1454:5)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnectMultiple (node:net:1453:3)
+    at node:net:1399:7
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnect (node:net:1398:5)
+    at Socket.connect (node:net:1293:5)
+    at /workspaces/tg-channel-forwarder/node_modules/telegram/extensions/PromisedNetSockets.js:128:33
+    at new Promise (<anonymous>) {
+  errno: -22,
+  code: 'EINVAL',
+  syscall: 'getaddrinfo',
+  hostname: '149.154.160��1'
+}
+[33m[2026-09-04T12:00:53.475] [INFO] - [Connecting to 149.154.160��1:80/TCPFull...][0m
+[31m[2026-09-04T12:00:53.476] [ERROR] - [WebSocket connection failed attempt: 2][0m
+Error: getaddrinfo EINVAL 149.154.160��1
+    at lookup (node:dns:240:32)
+    at emitLookup (node:net:1454:5)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnectMultiple (node:net:1453:3)
+    at node:net:1399:7
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnect (node:net:1398:5)
+    at Socket.connect (node:net:1293:5)
+    at /workspaces/tg-channel-forwarder/node_modules/telegram/extensions/PromisedNetSockets.js:128:33
+    at new Promise (<anonymous>) {
+  errno: -22,
+  code: 'EINVAL',
+  syscall: 'getaddrinfo',
+  hostname: '149.154.160��1'
+}
+[33m[2026-09-04T12:00:54.478] [INFO] - [Connecting to 149.154.160��1:80/TCPFull...][0m
+[31m[2026-09-04T12:00:54.479] [ERROR] - [WebSocket connection failed attempt: 3][0m
+Error: getaddrinfo EINVAL 149.154.160��1
+    at lookup (node:dns:240:32)
+    at emitLookup (node:net:1454:5)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnectMultiple (node:net:1453:3)
+    at node:net:1399:7
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnect (node:net:1398:5)
+    at Socket.connect (node:net:1293:5)
+    at /workspaces/tg-channel-forwarder/node_modules/telegram/extensions/PromisedNetSockets.js:128:33
+    at new Promise (<anonymous>) {
+  errno: -22,
+  code: 'EINVAL',
+  syscall: 'getaddrinfo',
+  hostname: '149.154.160��1'
+}
+[33m[2026-09-04T12:00:55.481] [INFO] - [Connecting to 149.154.160��1:80/TCPFull...][0m
+[31m[2026-09-04T12:00:55.482] [ERROR] - [WebSocket connection failed attempt: 4][0m
+Error: getaddrinfo EINVAL 149.154.160��1
+    at lookup (node:dns:240:32)
+    at emitLookup (node:net:1454:5)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnectMultiple (node:net:1453:3)
+    at node:net:1399:7
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnect (node:net:1398:5)
+    at Socket.connect (node:net:1293:5)
+    at /workspaces/tg-channel-forwarder/node_modules/telegram/extensions/PromisedNetSockets.js:128:33
+    at new Promise (<anonymous>) {
+  errno: -22,
+  code: 'EINVAL',
+  syscall: 'getaddrinfo',
+  hostname: '149.154.160��1'
+}
+[33m[2026-09-04T12:00:56.483] [INFO] - [Connecting to 149.154.160��1:80/TCPFull...][0m
+[31m[2026-09-04T12:00:56.484] [ERROR] - [WebSocket connection failed attempt: 5][0m
+Error: getaddrinfo EINVAL 149.154.160��1
+    at lookup (node:dns:240:32)
+    at emitLookup (node:net:1454:5)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnectMultiple (node:net:1453:3)
+    at node:net:1399:7
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:472:18)
+    at lookupAndConnect (node:net:1398:5)
+    at Socket.connect (node:net:1293:5)
+    at /workspaces/tg-channel-forwarder/node_modules/telegram/extensions/PromisedNetSockets.js:128:33
+    at new Promise (<anonymous>) {
+  errno: -22,
+  code: 'EINVAL',
+  syscall: 'getaddrinfo',
+  hostname: '149.154.160��1'
+}
+Connected. Fetching your chats...
+
